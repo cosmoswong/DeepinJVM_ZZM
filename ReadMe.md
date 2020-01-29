@@ -2,7 +2,7 @@
 
 ------
 
-![book](doc/images/book.png)
+![book](./doc/images/book.png)
 
 ------
 

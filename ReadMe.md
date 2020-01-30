@@ -2,7 +2,8 @@
 
 ------
 
-![book](./doc/images/book.png)
+![book]()
+<img src="./doc/images/book.png" style="height:500px" />
 
 ------
 
